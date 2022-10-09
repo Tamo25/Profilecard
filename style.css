@@ -13,6 +13,7 @@ body {
   background-position: -33vh -63vh, 100vh 50vh;
   background-repeat: no-repeat;
   position: relative;
+  overflow: hidden;
   
   
 }
